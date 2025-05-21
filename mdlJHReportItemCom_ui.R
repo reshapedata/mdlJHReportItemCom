@@ -12,7 +12,8 @@ tabItem(tabName = "mdlJHReportItemCom",
                         mdlJHReportItemUI::TestRecordUI(),
                         mdlJHReportItemUI::TemplateListUI(),
                         mdlJHReportItemUI::ProductQualityUI(),
-                        mdlJHReportItemUI::CustomerMaterialCorrespondenceUI()
+                        mdlJHReportItemUI::CustomerMaterialCorrespondenceUI(),
+                        mdlJHReportItemUI::CustomerTemplatesUI()
                         
                         
                         
